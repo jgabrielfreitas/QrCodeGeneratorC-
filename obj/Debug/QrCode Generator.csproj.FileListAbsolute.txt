@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\QrCode Generator.exe.config
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\QrCode Generator.exe
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\QrCode Generator.pdb
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\obj\Debug\QrCode Generator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\obj\Debug\QrCode_Generator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\obj\Debug\QrCode Generator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\obj\Debug\QrCode Generator.exe
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\obj\Debug\QrCode Generator.pdb
+c:\users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\obj\Debug\QrCode_Generator.QRCode.resources
+C:\Users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\zxing.dll
+C:\Users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\zxing.presentation.dll
+C:\Users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\zxing.pdb
+C:\Users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\zxing.xml
+C:\Users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\zxing.presentation.pdb
+C:\Users\user\documents\visual studio 2012\Projects\QrCode Generator\QrCode Generator\bin\Debug\zxing.presentation.xml
